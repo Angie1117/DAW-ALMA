@@ -1,0 +1,22 @@
+{
+  "name": "ProjectTwo",
+  "homepage": "https://github.com/Angie1117/DAW-ALMA",
+  "authors": [
+    "Angie1117 <almaangelica.martinez.martinez@alumno.uttehuacan.edu.mx>"
+  ],
+  "description": "My second bootstrap Project",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "boostrap": "bootstrap#^4.1.1",
+    "jquery": "^3.3.1",
+    "fontawesome": "^5.0.13"
+  }
+}
